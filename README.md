@@ -9,9 +9,10 @@
 FPGA 기반의 프로세서 및 통신 IP(RTL) 설계부터, 엣지(Edge) 환경에서의 AI 모델 최적화 및 배포까지 하드웨어와 소프트웨어를 넘나드는 최적화에 강점을 가지고 있습니다. 문제의 근본 원인을 분석(Timing/Power Report 분석, UVM 검증)하고 병목을 해결하는 과정을 즐깁니다.
 
 ## 🛠️ Tech Stack
-- **Hardware Design**: <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=verilog&logoColor=white"/> <img src="https://img.shields.io/badge/SystemVerilog-000000?style=flat-square&logo=verilog&logoColor=white"/> <img src="https://img.shields.io/badge/FPGA_Vivado-blue?style=flat-square"/>
-- **Verification**: `UVM (Universal Verification Methodology)`
+- **Hardware Design**: <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=verilog&logoColor=white"/> <img src="https://img.shields.io/badge/SystemVerilog-000000?style=flat-square&logo=verilog&logoColor=white"/>
+- **Verification**: <img src="https://img.shields.io/badge/UVM-FF7F00?style=flat-square&logoColor=white"/>
 - **Software & AI**: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=YOLO&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama(LLM)-FFFFFF?style=flat-square&logo=Ollama&logoColor=black"/>
+- **Tools & Boards**: <img src="https://img.shields.io/badge/Vivado-D32126?style=flat-square&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/VCS-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Verdi-1E1E1E?style=flat-square"/> <img src="https://img.shields.io/badge/Basys_3-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/> <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
 
 ---
 
