@@ -7,7 +7,7 @@
 
   <br>
 
-  <a href="mailto:이메일을_입력해주세요@gmail.com">
+  <a href="mailto:이메일을_입력해주세요 suhyunyun08@gmail.com">
     <img src="https://img.shields.io/badge/Email-이메일을_입력해주세요-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
