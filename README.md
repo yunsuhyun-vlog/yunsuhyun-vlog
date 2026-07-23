@@ -3,7 +3,13 @@
   
   **안녕하세요! 제 깃허브를 방문해 주셔서 감사합니다.** 👋
   
-  **"문제의 근본 원인을 찾고, 시스템의 타이밍을 개선해 나가는 과정을 좋아합니다."**
+  **"꾸준히 답을 찾고, 시스템 타이밍을 개선하는 것을 좋아합니다."**
+
+  <br>
+
+  <a href="mailto:이메일을_입력해주세요@gmail.com">
+    <img src="https://img.shields.io/badge/Email-이메일을_입력해주세요-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -29,12 +35,12 @@
 
 | 분야 (Category) | 프로젝트 명 (Project) | 핵심 내용 (Key Details) | 주요 기술 (Tech Stack) |
 | :---: | --- | --- | --- |
-| **CPU & SoC Architecture**<br>*(하드웨어 설계)* | **[RISC-V 32-bit Multicycle CPU with APB SoC](https://github.com/yunsuhyun-vlog/RISCV-Multicycle)** | - Multi-cycle FSM을 도입해 Single-cycle 대비 Dynamic Power 68% 감소.<br>- 타이밍 분석을 통해 Setup Timing(WNS) 개선 | `RISC-V (RV32I)`<br>`Multi-cycle FSM`<br>`APB Protocol`<br>`Memory Mapped I/O` |
-| | **[RISC-V RV32I Single-Cycle Processor](https://github.com/yunsuhyun-vlog/RISCV_Single-cycle)** | - Harvard Architecture 기반의 CPU 데이터패스와 제어 장치를 설계.<br>- C 코드를 활용한 누적 합 연산으로 소프트웨어 동작 검증 완료. | `RISC-V (RV32I)`<br>`Verilog` |
-| | **[AXI4-Lite 기반 통신 IP 설계 및 SW 검증](https://github.com/yunsuhyun-vlog/Microblaze_spi)** | - MicroBlaze 코어와 커스텀 SPI IP를 AXI4-Lite 버스로 연동.<br>- Vitis 환경에서 4-Layered SW 아키텍처를 구성하여 검증 수행. | `MicroBlaze`<br>`AXI4-Lite`<br>`Vitis` |
-| **Hardware IP & Verification**<br>*(통신 및 검증)* | **[SPI & I2C Protocol Implementation & UVM Verification](https://github.com/yunsuhyun-vlog/SPI_I2C)** | - SPI 및 I2C Master/Slave의 RTL 설계 진행.<br>- UVM 환경에서 검증 시나리오를 작성하여 Full-path 검증. | `SPI/I2C`<br>`SystemVerilog`<br>`UVM` |
-| | **[UART 기반 센서 및 시계/스톱워치 컨트롤러](https://github.com/yunsuhyun-vlog/UART-Sensor-Stopwatch-Controller)** | - Synchronous FIFO를 설계하여 통신 속도 차이로 인한 병목 현상 해소.<br>- 2-Stage Synchronizer를 도입해 비동기 신호의 Metastability 방지. | `UART`<br>`FIFO`<br>`Synchronizer` |
-| **On-Device AI & Vision**<br>*(인공지능)* | **[On-Device AI Navigation Guide System](https://github.com/yunsuhyun-vlog/Navigation_Guide)** | - 4개의 YOLO 모델 동시 추론 파이프라인을 구축.<br>- 경량 LLM(Qwen2) 교체 및 튜닝으로 지연 시간 3.93초에서 0.94초로 단축. | `YOLO11`<br>`Ollama(Qwen2)`<br>`Multi-threading`<br>`Data Imbalance` |
+| **CPU & SoC Architecture**<br>*(하드웨어 설계)* | **[RISC-V 32-bit Multicycle CPU with APB SoC](https://github.com/yunsuhyun-vlog/RISCV-Multicycle)** | - Multi-cycle FSM을 통해 Single-cycle 대비 Dynamic Power 68% 감소.<br>- 타이밍 분석을 통한 Setup Timing(WNS) 개선. | `RISC-V (RV32I)`<br>`Multi-cycle FSM`<br>`APB Protocol`<br>`Memory Mapped I/O` |
+| | **[RISC-V RV32I Single-Cycle Processor](https://github.com/yunsuhyun-vlog/RISCV_Single-cycle)** | - Harvard Architecture 기반 CPU 데이터패스와 제어 장치 설계.<br>- C 코드를 활용한 누적 합 연산으로 소프트웨어 동작 검증 완료. | `RISC-V (RV32I)`<br>`Verilog` |
+| | **[AXI4-Lite 기반 통신 IP 설계 및 SW 검증](https://github.com/yunsuhyun-vlog/Microblaze_spi)** | - MicroBlaze 코어와 커스텀 SPI IP를 AXI4-Lite 버스로 연동.<br>- Vitis 환경에서 4-Layered SW 아키텍처를 구성하여 동작 검증. | `MicroBlaze`<br>`AXI4-Lite`<br>`Vitis` |
+| **Hardware IP & Verification**<br>*(통신 및 검증)* | **[SPI & I2C Protocol Implementation & UVM Verification](https://github.com/yunsuhyun-vlog/SPI_I2C)** | - SPI 및 I2C Master/Slave의 RTL 설계 완료.<br>- UVM 환경에서 검증 시나리오 작성하여 Full-path 검증. | `SPI/I2C`<br>`SystemVerilog`<br>`UVM` |
+| | **[UART 기반 센서 및 시계/스톱워치 컨트롤러](https://github.com/yunsuhyun-vlog/UART-Sensor-Stopwatch-Controller)** | - Synchronous FIFO를 활용하여 통신 속도 차이로 인한 병목 현상 개선.<br>- 2-Stage Synchronizer를 통한 비동기 신호의 Metastability 개선. | `UART`<br>`FIFO`<br>`Synchronizer` |
+| **On-Device AI & Vision**<br>*(인공지능)* | **[On-Device AI Navigation Guide System](https://github.com/yunsuhyun-vlog/Navigation_Guide)** | - 4개의 YOLO 모델 동시 추론 파이프라인 구축.<br>- 경량 LLM(Qwen2) 교체 및 프롬프트 튜닝으로 지연 시간 3.93초에서 0.94초로 단축. | `YOLO11`<br>`Ollama(Qwen2)`<br>`Multi-threading`<br>`Data Imbalance` |
 
 ---
 
@@ -59,7 +65,6 @@
        profile-season.svg /  profile-season-animate.svg   (북반구 계절색)
      ※ -animate 가 붙은 애니메이션 버전은 green / season 계열에만 있습니다.
 -->
-
 
 ---
 
