@@ -41,6 +41,30 @@
 
 ---
 
+## GitHub
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+
+</div>
+
+<!-- 이 이미지는 .github/workflows/profile-3d.yml 이 매일 자동 생성해 저장소에 커밋합니다.
+     처음 한 번은 Actions 탭에서 수동 실행해야 파일이 만들어집니다.
+     (실행 전에는 파일이 없으므로 이미지가 깨져 보입니다)
+
+     테마를 바꾸려면 위 경로의 파일명만 교체하세요:
+       profile-night-rainbow.svg      ← 현재 (야경 + 무지개 그라데이션)
+       profile-night-view.svg          야경
+       profile-night-green.svg         야경 + 초록
+       profile-gitblock.svg            블록형
+       profile-green.svg  /  profile-green-animate.svg
+       profile-season.svg /  profile-season-animate.svg   (북반구 계절색)
+     ※ -animate 가 붙은 애니메이션 버전은 green / season 계열에만 있습니다.
+-->
+
+---
+
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yunsuhyun-vlog&show_icons=true&theme=radium" width="48%" />
@@ -51,4 +75,10 @@
 
 <div align="center">
   <i>"겸손한 자세로 끊임없이 배우고 성장하는 엔지니어가 되겠습니다."</i>
+</div>
+
+---
+
+<div align="center">
+<sub>Built with SystemVerilog, coffee, and a lot of waveform staring.</sub>
 </div>
