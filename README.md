@@ -3,8 +3,6 @@
   
   **안녕하세요! 제 깃허브를 방문해 주셔서 감사합니다.** 👋
   
-  # 👨‍💻 하드웨어와 AI를 탐구하는 엔지니어
-  
   **"RTL 설계부터 On-Device AI까지, 하드웨어와 소프트웨어를 아우르는 엔지니어를 꿈꿉니다."**
 </div>
 
@@ -63,15 +61,6 @@
      ※ -animate 가 붙은 애니메이션 버전은 green / season 계열에만 있습니다.
 -->
 
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunsuhyun-vlog&show_icons=true&theme=radium" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuhyun-vlog&layout=compact&theme=radium" width="48%" />
-</div>
-
-<br>
 
 <div align="center">
   <i>"겸손한 자세로 끊임없이 배우고 성장하는 엔지니어가 되겠습니다."</i>
