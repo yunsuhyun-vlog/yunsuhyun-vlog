@@ -62,10 +62,6 @@
 -->
 
 
-<div align="center">
-  <i>"겸손한 자세로 끊임없이 배우고 성장하는 엔지니어가 되겠습니다."</i>
-</div>
-
 ---
 
 <div align="center">
