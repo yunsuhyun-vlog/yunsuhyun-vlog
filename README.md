@@ -26,7 +26,7 @@ FPGA 기반의 프로세서 및 통신 IP(RTL) 설계부터, 엣지(Edge) 환경
 | | **[AXI4-Lite 기반 통신 IP 설계 및 SW 검증](https://github.com/yunsuhyun-vlog/Microblaze_spi)** | MicroBlaze 소프트 코어와 커스텀 SPI IP를 AXI4-Lite 버스로 연동. 4-Layered SW 아키텍처(Vitis)로 검증 수행 | `MicroBlaze`, `AXI4-Lite`, `Vitis` |
 | **Hardware IP & Verification**<br>*(통신 인터페이스 및 UVM 검증)* | **[SPI & I2C Protocol Implementation & UVM Verification](https://github.com/yunsuhyun-vlog/SPI_I2C)** | SPI/I2C Master/Slave RTL 설계 및 UVM(Universal Verification Methodology)을 적용한 Full-path 커버리지 100% 달성 | `SPI/I2C`, `SystemVerilog`, `UVM` |
 | | **[UART 기반 센서 및 시계/스톱워치 컨트롤러](https://github.com/yunsuhyun-vlog/UART-Sensor-Stopwatch-Controller)** | Synchronous FIFO를 통한 통신 병목 해소, 2-Stage Synchronizer를 이용한 Metastability(Setup/Hold 위반) 완벽 방지 설계 | `UART`, `FIFO`, `Synchronizer` |
-| **On-Device AI & Vision**<br>*(인공지능 및 엣지 컴퓨팅)* | **[On-Device AI Navigation Guide System](https://github.com/yunsuhyun-vlog/Navigation_Guide)** | 4개의 YOLO 모델 동시 추론 파이프라인 최적화. LLM 모델 교체 및 프롬프트 튜닝으로 지연 시간(Latency) **2.99초 단축**(3.93s ➔ 0.94s) 및 5배 빠른 토큰 생성(18.7 token/s) 달성 | `YOLO11`, `Ollama(Qwen2)`, `Multi-threading`, `Data Imbalance 최적화` |
+| **On-Device AI & Vision**<br>*(인공지능 및 엣지 컴퓨팅)* | **[On-Device AI Navigation Guide System](https://github.com/yunsuhyun-vlog/Navigation_Guide)** | 4개의 YOLO 모델 동시 추론. LLM 모델 교체 및 프롬프트 튜닝으로 지연 시간(Latency) **2.99초 단축**(3.93s ➔ 0.94s) 및 5배 빠른 토큰 생성(18.7 token/s) 달성 | `YOLO11`, `Ollama(Qwen2)`, `Multi-threading`, `Data Imbalance 최적화` |
 
 ---
 
