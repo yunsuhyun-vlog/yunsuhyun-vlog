@@ -1,23 +1,32 @@
-# 👨‍💻 안녕하세요! 하드웨어와 AI의 경계를 허무는 엔지니어, 윤수현입니다.
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yun%20Su%20Hyun&fontSize=90" />
+  
+  # 👨‍💻 하드웨어와 AI의 경계를 허무는 엔지니어
+  
+  **"탄탄한 RTL 설계 역량을 바탕으로, On-Device AI 시스템까지 아우르는 융합형 엔지니어"**
 </div>
-
-> **"탄탄한 RTL 설계 역량을 바탕으로, On-Device AI 시스템까지 아우르는 융합형 엔지니어"**
-
-FPGA 기반의 프로세서 및 통신 IP(RTL) 설계부터, 엣지(Edge) 환경에서의 AI 모델 최적화 및 배포까지 하드웨어와 소프트웨어를 넘나드는 최적화에 강점을 가지고 있습니다. 문제의 근본 원인을 분석(Timing/Power Report 분석, UVM 검증)하고 병목을 해결하는 과정을 즐깁니다.
-
-## 🛠️ Tech Stack
-- **Hardware Design**: <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=verilog&logoColor=white"/> <img src="https://img.shields.io/badge/SystemVerilog-000000?style=flat-square&logo=verilog&logoColor=white"/>
-- **Verification**: <img src="https://img.shields.io/badge/UVM-FF7F00?style=flat-square&logoColor=white"/>
-- **Software & AI**: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=YOLO&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama(LLM)-FFFFFF?style=flat-square&logo=Ollama&logoColor=black"/>
-- **Tools**: <img src="https://img.shields.io/badge/Vivado-D32126?style=flat-square&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/VCS-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Verdi-1E1E1E?style=flat-square"/> 
-- **Boards**: <img src="https://img.shields.io/badge/Basys_3-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/> <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
 
 ---
 
-## 🚀 Key Projects (주요 프로젝트)
+## 🚀 About Me
+- ⚡ **RTL 설계 및 검증**: FPGA 기반 프로세서(RISC-V, MicroBlaze) 및 통신 IP(SPI, I2C, UART) 설계
+- 🧠 **On-Device AI 최적화**: 엣지(Edge) 환경에서의 YOLO 비전 모델 및 LLM 최적화 배포
+- 🛠 **하드웨어 검증 전문가**: UVM(Universal Verification Methodology)을 활용한 Full-path 검증 및 Timing/Power 분석
+- 🎯 **문제 해결 중심**: 문제의 근본 원인을 분석하고 시스템의 병목 현상을 해결하는 과정을 즐깁니다.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Hardware Design** : <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=verilog&logoColor=white"/> <img src="https://img.shields.io/badge/SystemVerilog-000000?style=flat-square&logo=verilog&logoColor=white"/>
+- **Verification** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://img.shields.io/badge/UVM-FF7F00?style=flat-square&logoColor=white"/>
+- **Software & AI** &nbsp;&nbsp;&nbsp;: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=YOLO&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama(LLM)-FFFFFF?style=flat-square&logo=Ollama&logoColor=black"/>
+- **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://img.shields.io/badge/Vivado-D32126?style=flat-square&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/VCS-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Verdi-1E1E1E?style=flat-square"/> 
+- **Boards** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://img.shields.io/badge/Basys_3-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/> <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+
+---
+
+## 💻 Key Projects (주요 프로젝트)
 
 | 분야 (Category) | 프로젝트 명 (Project) | 핵심 성과 (Key Impact & Achievements) | 주요 기술 (Tech Stack) |
 | :---: | --- | --- | --- |
