@@ -8,7 +8,7 @@
   <br>
 
   <a href="mailto:suhyunyun08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-이메일을_입력해주세요-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-suhyunyun08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -52,9 +52,7 @@
 
 </div>
 
-<!-- 이 이미지는 .github/workflows/profile-3d.yml 이 매일 자동 생성해 저장소에 커밋합니다.
-     처음 한 번은 Actions 탭에서 수동 실행해야 파일이 만들어집니다.
-     (실행 전에는 파일이 없으므로 이미지가 깨져 보입니다)
+<!-- 이 이미지는 .github/workflows/profile-3d.yml 이 매일 자동 생성해 저장소에 커밋
 
      테마를 바꾸려면 위 경로의 파일명만 교체하세요:
        profile-night-rainbow.svg      ← 현재 (야경 + 무지개 그라데이션)
@@ -63,7 +61,7 @@
        profile-gitblock.svg            블록형
        profile-green.svg  /  profile-green-animate.svg
        profile-season.svg /  profile-season-animate.svg   (북반구 계절색)
-     ※ -animate 가 붙은 애니메이션 버전은 green / season 계열에만 있습니다.
+     ※ -animate 가 붙은 애니메이션 버전은 green / season 계열
 -->
 
 ---
