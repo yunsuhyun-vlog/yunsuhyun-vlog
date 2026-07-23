@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yun%20Su%20Hyun&fontSize=90" />
   
+  **안녕하세요! 제 깃허브를 방문해 주셔서 감사합니다.** 👋
+  
   # 👨‍💻 하드웨어와 AI의 경계를 허무는 엔지니어
   
   **"탄탄한 RTL 설계 역량을 바탕으로, On-Device AI 시스템까지 아우르는 융합형 엔지니어"**
