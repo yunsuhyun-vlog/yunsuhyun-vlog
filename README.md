@@ -35,7 +35,7 @@
 
 | 분야 (Category) | 프로젝트 명 (Project) | 핵심 내용 (Key Details) | 주요 기술 (Tech Stack) |
 | :---: | --- | --- | --- |
-| **Robotics & System Integration**<br>*(로봇 및 시스템 통합)* | **[Smart Factory Logistics with Autonomous AMR & Vision AI](https://github.com/yunsuhyun-vlog/Smart_Factory_with_AMR.git)** | - LiDAR SLAM 기반 자율주행(AMR) 셔틀과 다이나믹셀 역기구학 로봇팔을 연동한 스마트 물류 자동화 시스템을 구축했습니다.<br>- FPGA 하드웨어 영상 처리(HSV) 및 Jetson Nano 기반 AI 비전(CNN) 파이프라인을 구현하여 실시간 객체 추적을 달성했습니다. | `C / C++`<br>`Python (TensorRT)`<br>`SystemVerilog`<br>`Jetson / FPGA` |
+| **Robotics & System Integration**<br>*(로봇 및 시스템 통합)* | **[Smart Factory Logistics with Autonomous AMR & Vision AI](https://github.com/yunsuhyun-vlog/Smart_Factory_with_AMR.git)** | - LiDAR SLAM 기반 자율주행로봇과 다이나믹셀 역기구학 로봇팔을 연동한 스마트 물류 자동화 시스템을 구축.<br>- FPGA 하드웨어 영상 처리(HSV) 및 Jetson Nano 기반 AI 비전(CNN) 파이프라인을 구현하여 실시간 객체 추적을 달성. | `C / C++`<br>`Python (TensorRT)`<br>`SystemVerilog`<br>`Jetson / FPGA` |
 | **CPU & SoC Architecture**<br>*(하드웨어 설계)* | **[RISC-V 32-bit Multicycle CPU with APB SoC](https://github.com/yunsuhyun-vlog/RISCV-Multicycle)** | - Multi-cycle FSM을 통해 Single-cycle 대비 Dynamic Power 68% 감소.<br>- 타이밍 분석을 통한 Setup Timing(WNS) 개선. | `RISC-V (RV32I)`<br>`Multi-cycle FSM`<br>`APB Protocol`<br>`Memory Mapped I/O` |
 | | **[RISC-V RV32I Single-Cycle Processor](https://github.com/yunsuhyun-vlog/RISCV_Single-cycle)** | - Harvard Architecture 기반 CPU 데이터패스와 제어 장치 설계.<br>- C 코드를 활용한 누적 합 연산으로 소프트웨어 동작 검증 완료. | `RISC-V (RV32I)`<br>`Verilog` |
 | | **[AXI4-Lite 기반 통신 IP 설계 및 SW 검증](https://github.com/yunsuhyun-vlog/Microblaze_spi)** | - MicroBlaze 코어와 커스텀 SPI IP를 AXI4-Lite 버스로 연동.<br>- Vitis 환경에서 4-Layered SW 아키텍처를 구성하여 동작 검증. | `MicroBlaze`<br>`AXI4-Lite`<br>`Vitis` |
